@@ -1347,8 +1347,8 @@ a {
 #lp-pom-image-617 {
     display: block;
     background: rgba(255, 255, 255, 0);
-    left: 13px;
-    top: 404px;
+    left: 14px;
+    top: 406px;
     z-index: 23;
     position: absolute;
 }
@@ -4411,7 +4411,7 @@ a {
         background: rgba(255, 255, 255, 0);
         border-style: none;
         border-radius: 0px;
-        left: 37px;
+        left: 50px;
         top: 587px;
         z-index: 124;
         width: 248px;
@@ -4426,7 +4426,7 @@ a {
     #lp-pom-image-581 {
         display: block;
         background: rgba(255, 255, 255, 0);
-        left: 10px;
+        left: 23px;
         top: 586px;
         z-index: 125;
         position: absolute;
@@ -4496,7 +4496,7 @@ a {
         display: block;
         background: rgba(255, 255, 255, 0);
         left: 16px;
-        top: 465px;
+        top: 435px;
         z-index: 23;
         position: absolute;
     }
@@ -4514,15 +4514,6 @@ a {
         z-index: 25;
         width: 281px;
         height: 53px;
-        position: absolute;
-    }
-
-    #lp-pom-image-619 {
-        display: block;
-        background: rgba(255, 255, 255, 0);
-        left: 240px;
-        top: 658.5px;
-        z-index: 26;
         position: absolute;
     }
 
@@ -4582,7 +4573,7 @@ a {
         border-style: none;
         border-radius: 0px;
         left: 43px;
-        top: 465px;
+        top: 435px;
         z-index: 89;
         width: 236px;
         height: 34px;
@@ -4740,8 +4731,8 @@ a {
     #lp-pom-image-663 {
         display: block;
         background: rgba(255, 255, 255, 0);
-        left: 10px;
-        top: 10px;
+        left: 17px;
+        top: 492px;
         z-index: 119;
         position: absolute;
     }
@@ -4751,8 +4742,8 @@ a {
         background: rgba(255, 255, 255, 0);
         border-style: none;
         border-radius: 0px;
-        left: 37px;
-        top: 10px;
+        left: 45px;
+        top: 492px;
         z-index: 121;
         width: 236px;
         height: 34px;
@@ -4768,8 +4759,8 @@ a {
         background: rgba(255, 255, 255, 0);
         border-style: none;
         border-radius: 0px;
-        left: 138px;
-        top: 1549px;
+        left: -72px;
+        top: 3801px;
         z-index: 135;
         width: 926px;
         height: 26px;
@@ -5839,18 +5830,6 @@ a {
     #lp-pom-image-617 .lp-pom-image-container img {
         width: 15px;
         height: 15px;
-    }
-
-    #lp-pom-image-619 .lp-pom-image-container {
-        border-style: none;
-        border-radius: 0px;
-        width: 25px;
-        height: 19px;
-    }
-
-    #lp-pom-image-619 .lp-pom-image-container img {
-        width: 25px;
-        height: 19px;
     }
 
     #lp-pom-button-620:hover {
