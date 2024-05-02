@@ -9,8 +9,15 @@ export class AppComponent {
   
   constructor(private elementRef: ElementRef) { }
   
-  scrollToDestination() {
+  scrollToDestination1() {
     const destination = this.elementRef.nativeElement.querySelector('#enviarConocerBeneficios');
+    if (destination) {
+      destination.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  }
+
+  scrollToDestination2() {
+    const destination = this.elementRef.nativeElement.querySelector('#vertodoslosplanes');
     if (destination) {
       destination.scrollIntoView({ behavior: 'smooth', block: 'start' });
     }
